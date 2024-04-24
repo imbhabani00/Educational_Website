@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "/images/hyper.png",
+    "heading": "Html",
+    "courses": "25 Courses"
+  },
+  {
+    "id": 2,
+    "image": "/images/css.png",
+    "heading": "Css",
+    "courses": "30 Courses"
+  },
+  {
+    "id": 3,
+    "image": "/images/js.png",
+    "heading": "Javascript",
+    "courses": "45 Courses"
+  },
+  {
+    "id": 4,
+    "image": "/images/da.png",
+    "heading": "Data Analysis",
+    "courses": "15 Courses"
+  },
+  {
+    "id": 5,
+    "image": "/images/se.png",
+    "heading": "Software Egeneering",
+    "courses": "40 Courses"
+  },
+  {
+    "id": 6,
+    "image": "/images/py.png",
+    "heading": "Python",
+    "courses": "37 Courses"
+  },
+  {
+    "id": 7,
+    "image": "/images/ba.png",
+    "heading": "Buisness Analysis",
+    "courses": "28 Courses"
+  },
+  {
+    "id": 8,
+    "image": "/images/react.png",
+    "heading": "ReactJs",
+    "courses": "34 Courses"
+  },
+  {
+    "id": 9,
+    "image": "/images/gd.png",
+    "heading": "Java",
+    "courses": "44 Courses"
+  },
+  {
+    "id": 10,
+    "image": "/images/wd.png",
+    "heading": "Web Designing",
+    "courses": "20 Courses"
+  },
+  {
+    "id": 11,
+    "image": "/images/wordpress.png",
+    "heading": "Wordpress",
+    "courses": "11 Courses"
+  },
+  {
+    "id": 12,
+    "image": "/images/business.png",
+    "heading": "Business Adminstration",
+    "courses": "19 Courses"
+  }
+]
